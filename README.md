@@ -1,4 +1,4 @@
-TODO(bzz): logo here
+![SeoulTech Logo](http://static.tumblr.com/14618c6668d1de7c4c43c5a4de7e0c24/ywmo2p1/YgBn668v8/tumblr_static_eeb6bfg3p1k4gwwg4kwk0ogws.png)
 
 # Jobs in South Korea
 Job list for IT vacancies in South Korea via *Github issue*
