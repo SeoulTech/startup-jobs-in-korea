@@ -11,3 +11,6 @@ Open an issue and, in the title of the issue put the city name in brackets follo
 Example: `[Seoul] Front End Developer - FooBar`
 
 Add labels with the desired level of experience and work environment: remote or on-site.
+
+### Important
+To prevent possible candidates from sending CV to the vacancies that are already filled, we kindly ask those who post the issue to close it as soon as possible after it's done.
