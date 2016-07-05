@@ -1,6 +1,7 @@
 ## Job Description
 
-position name, position description i.e Software engineer/Data Scientist/DevOps/etc
+position name i.e Software engineer/Data Scientist/DevOps/etc
+responsibilities, technology stack
 
 ## Location
 
@@ -17,12 +18,12 @@ List of things that company provides
 ## Requirements
 List of things that company is looking for
 
-** Required: **
+**Required:**
 - Proficency in XXX JavaSctipt, NodeJS, Java, etc
 - 2 years experience with YYY
 - ...
 
-** Desirable: **
+**Desirable:**
 - Knowledge of functional programming
 - Knowledge of relational database
 - ...
